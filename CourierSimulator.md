@@ -21,3 +21,5 @@ The maximum size of the picture to upload is 20M. PNG and JPG are better.
 Have any other questions, please contact our official customer service.
 
 留着给老王更新
+
+Wang
